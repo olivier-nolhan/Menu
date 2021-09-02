@@ -1,0 +1,40 @@
+<resources>
+
+    /** Apps
+    <string name="app_name">Menu</string>
+    <string name="app_vers">1.0.2</string>
+    <string name="version">Version</string>
+
+
+    /** Menu
+    <string name="communicate">Communicate</string>
+    <string name="other">Other</string>
+
+    /** Sub menu
+    <string name="index">Index</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="comment_this_app">Comment this App</string>
+    <string name="donate_no_more_publicity">Donate: No more publicity</string>
+    <string name="information">Information</string>
+    <string name="All_our_applications">All our applications</string>
+    <string name="back_to_application">Back to application</string>
+
+
+    /** Info click
+    <string name="Clicked_Share">Clicked Share</string>
+    <string name="Clicked_Rate_us">Clicked Rate us</string>
+    <string name="Clicked_Comment_this_App">Clicked Comment this App</string>
+    <string name="Clicked_All_our_application">Clicked All our application</string>
+    <string name="Clicked_Donate">Clicked Donate</string>
+    <string name="Clicked_Information">Clicked Information</string>
+    <string name="Clicked_back_to_application">Back to application</string>
+
+
+    /** Other
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="demolab">DemoLab</string>
+
+
+</resources>
